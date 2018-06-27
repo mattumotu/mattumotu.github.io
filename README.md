@@ -20,7 +20,7 @@ Source: [https://github.com/mattumotu/jenkinsnet](https://github.com/mattumotu/j
 
 ### RelativeDate
 
-Need to know the first thursay, third weekend day or last day of a given month? This lib is for you.
+Need to know the first thursday, second weekday, third weekend day or last day of a given month? This is for you.
 
 Pages: [https://mattumotu.github.io/relativedate/](https://mattumotu.github.io/relativedate/)
 
