@@ -18,4 +18,12 @@ Pages: [https://mattumotu.github.io/jenkinsnet/](https://mattumotu.github.io/jen
 
 Source: [https://github.com/mattumotu/jenkinsnet](https://github.com/mattumotu/jenkinsnet)
 
+### RelativeDate
+
+Need to know the first thursay, third weekend day or last day of a given month? This lib is for you.
+
+Pages: [https://mattumotu.github.io/relativedate/](https://mattumotu.github.io/relativedate/)
+
+Source: [https://github.com/mattumotu/relativedate](https://github.com/mattumotu/relativedate)
+
 
