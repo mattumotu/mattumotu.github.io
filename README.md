@@ -10,13 +10,13 @@ Pages: [https://mattumotu.github.io/postman/](https://mattumotu.github.io/postma
 
 Source: [https://github.com/mattumotu/postman](https://github.com/mattumotu/postman)
 
-### JenkinsNet
+### JenkinsNetClient
 
 A light weight, object-oriented .Net SDK for interacting with Jenkins.
 
-Pages: [https://mattumotu.github.io/jenkinsnet/](https://mattumotu.github.io/jenkinsnet/)
+Pages: [https://mattumotu.github.io/jenkinsnetclient/](https://mattumotu.github.io/jenkinsnetclient/)
 
-Source: [https://github.com/mattumotu/jenkinsnet](https://github.com/mattumotu/jenkinsnet)
+Source: [https://github.com/mattumotu/jenkinsnetclient](https://github.com/mattumotu/jenkinsnetclient)
 
 ### RelativeDate
 
